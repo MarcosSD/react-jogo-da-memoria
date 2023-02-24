@@ -1,7 +1,3 @@
-# Jogo da Memória
-
-Esse projeto foi desenvolvido
-
 ## Available Scripts
 
 In the project directory, you can run:
